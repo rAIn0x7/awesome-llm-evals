@@ -84,6 +84,7 @@ Pick these when you want a **number to cite** or a public ranking to compare aga
 - [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) — Massive Text Embedding Benchmark. **Pick it when** you're choosing/evaluating an embedding model.  `⭐3k` 🟢
 - [vectara/hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) — Leaderboard comparing LLM hallucination rates. **Pick it when** you need a citable hallucination ranking.  `⭐3k` 🟢
 - [google/BIG-bench](https://github.com/google/BIG-bench) — Collaborative benchmark of 200+ hard tasks. **Pick it when** you want historical/reference tasks — note the repo is largely frozen.  `⭐3k` 🟡
+- [TIGER-AI-Lab/StructEval](https://github.com/TIGER-AI-Lab/StructEval) — Benchmark for structured-output generation and cross-format conversion across 18 text and renderable formats, with syntax, structural, and visual checks. **Pick it when** you need to evaluate whether an LLM produces valid, faithful structured artifacts across formats. [Paper](https://arxiv.org/abs/2505.20139)  `OSS` 🟢
 
 ## Closed-source & commercial (for reference)
 
