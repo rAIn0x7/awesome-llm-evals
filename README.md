@@ -84,6 +84,7 @@ Pick these when you want a **number to cite** or a public ranking to compare aga
 - [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) — Massive Text Embedding Benchmark. **Pick it when** you're choosing/evaluating an embedding model.  `⭐3k` 🟢
 - [vectara/hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) — Leaderboard comparing LLM hallucination rates. **Pick it when** you need a citable hallucination ranking.  `⭐3k` 🟢
 - [google/BIG-bench](https://github.com/google/BIG-bench) — Collaborative benchmark of 200+ hard tasks. **Pick it when** you want historical/reference tasks — note the repo is largely frozen.  `⭐3k` 🟡
+- [TIGER-AI-Lab/ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) — Live-web benchmark for browser and computer-use agents, with 283 tasks across 163 production websites and five execution-evidence layers. **Pick it when** you need realistic, multi-step web-agent evaluation.  `⭐530` 🟢
 
 ## Closed-source & commercial (for reference)
 
