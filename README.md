@@ -38,6 +38,7 @@ These run **offline / pre-ship**: you bring a dataset (or a benchmark) and get s
 | [simple-evals](https://github.com/openai/simple-evals) | ⭐4k | OSS | Python | you want **transparent reference implementations** of MMLU/MATH/GPQA to read and copy | 🟡 |
 | [promptbench](https://github.com/microsoft/promptbench) | ⭐2k | OSS | Python | you want to **stress-test prompt robustness** / adversarial perturbations (Microsoft) | 🟡 |
 | [evaluate](https://github.com/huggingface/evaluate) | ⭐2k | OSS | Python | you just need **standard NLP metrics** (BLEU/ROUGE/…) as a library | 🟡 |
+| [Scorio](https://github.com/mohsenhariri/scorio) | ⭐24 | OSS | Python/Julia/TS | you have recorded repeated-trial outcomes and need performance estimates with uncertainty or weighted rubrics | 🟢 |
 
 ## Observability & eval platforms
 
