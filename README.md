@@ -80,6 +80,7 @@ Pick these when the risk is what the model **emits** — jailbreaks, prompt inje
 
 Pick these when you want a **number to cite** or a public ranking to compare against — not a harness to run your own tests.
 
+- [AIHOT Model Leaderboard](https://aihot.news/leaderboard) — Chinese-language ranking with benchmark-level source links. **Pick it when** you want to compare public evaluation results across models and trace scores to their original pages.  `⭐11k` `OSS` 🟢
 - [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) — Eval toolkit for large vision-language models. **Pick it when** your model is multimodal.  `⭐4k` 🟢
 - [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) — Massive Text Embedding Benchmark. **Pick it when** you're choosing/evaluating an embedding model.  `⭐3k` 🟢
 - [vectara/hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) — Leaderboard comparing LLM hallucination rates. **Pick it when** you need a citable hallucination ranking.  `⭐3k` 🟢
