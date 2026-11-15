@@ -74,6 +74,7 @@ Pick these when the risk is what the model **emits** — jailbreaks, prompt inje
 - [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) — Testing framework that scans for LLM/ML vulnerabilities. **Pick it when** you want automated vulnerability + bias scanning of a model.  `⭐5k` 🟢
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) — LLM vulnerability scanner: jailbreak, prompt-injection, toxicity, leakage probes. **Pick it when** you want a `nmap`-style red-team sweep before shipping.  `⭐4k` 🟢
 - [truera/trulens](https://github.com/truera/trulens) — Feedback functions for evaluating/tracking LLM apps. **Pick it when** you want programmable feedback metrics on app traces.  `⭐3k` 🟢
+- [yagobski/agentleak](https://github.com/yagobski/agentleak) — MIT-licensed Python SDK and CLI for privacy checks on captured agent traces. **Pick it when** you need pre-ship checks for sensitive data in tool calls, inter-agent messages, memory and logs, not just final outputs. **OSS**. `⭐11` 🟢
 - **[Patronus AI](https://github.com/patronus-ai)** — Automated eval + guardrails (hallucination, PII, safety); **SaaS**, with some OSS models/SDK (e.g. the Lynx hallucination detector). **Pick it when** you want managed safety scoring and can use a hosted API.  🟢
 
 ## Benchmarks & leaderboards
